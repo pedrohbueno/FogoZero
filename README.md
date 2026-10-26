@@ -3,11 +3,11 @@ App despacho de alertas para corpo de bombeiros
 
 
 # Escopo
-## - Camilli
+### - Camilli
 - Sistema de histórico
 - Prioridade de filas
 - Registro de ocorrencias
-## - PedroBueno
+### - PedroBueno
 - Leitura de logs
 - Controle de veiculos
 - Controle de funcionários
