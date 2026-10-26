@@ -6,6 +6,6 @@ App despacho de alertas para corpo de bombeiros
 - Sistema de histórico
 - Prioridade de filas
 - Registro de ocorrencias
-- Controle de veiculos
 - Leitura de logs
-- Mapa simplicado
+- Controle de veiculos
+- Controle de funcionários
